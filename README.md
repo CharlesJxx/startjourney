@@ -22,3 +22,6 @@ mongoDB（小伙伴当时推荐的，虽然那会没接触过，但事实证明m
 
 web脚本：
 使用JavaScript、jQuery、Ajax
+
+发布平台：
+wamp（集成环境，简单~）
